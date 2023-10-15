@@ -2,7 +2,7 @@
 On-chain contribution recorder for idea collaboration.
 Making creative collaboration in the 'Open Studio' possible.
 
-![demo1](images/cover1.png)
+![demo1](images/cover1.jpg)
 
 ![demo2](images/cover2.png)
 
@@ -19,7 +19,7 @@ GPT-4-based AI model that automatically analyzes user-posted graphic and text co
 
 Once approved by a token-staked manager (staker), it becomes an automated record of creator tokens.
 
-![demo5](images/cover5.png)
+![demo5](images/cover5.jpg)
 
 Super easy way for creator onboarding:
 
