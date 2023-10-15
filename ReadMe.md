@@ -16,7 +16,7 @@ GPT-4-based AI model that automatically analyzes user-posted graphic and text co
 - copyright confirmation
 - automatic estimation of 'creative contribution' to the content.
 
-![demo4](images/cover4.png)
+![demo4](images/cover4.jpg)
 
 Once approved by a token-staked manager (staker), it becomes an automated record of creator tokens.
 
@@ -33,10 +33,10 @@ Current buidl team:
 
 ![demo7](images/cover7.jpg)
 
-### Demo Link
+### Demo and Repo
 
-[Demo Video of magiry](https://youtu.be/ifuIPDwWeJ4)
+[Pitch Video of Magiry.ai](https://youtu.be/ifuIPDwWeJ4)
 
-### Github repo
+[Pitch Deck of Magiry.ai](https://docsend.com/view/24ygnn5adfy9gxkh)
     
-[repo of magipop magiry](https://github.com/Kincc-9999/magipop_magiry)
+[repo of magipop Magiry.ai](https://github.com/Kincc-9999/magipop_magiry)
