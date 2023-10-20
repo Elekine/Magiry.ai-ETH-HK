@@ -35,7 +35,7 @@ Current buidl team:
 
 ### Demo and Repo
 
-[Pitch Video of Magiry.ai](https://youtu.be/ifuIPDwWeJ4)
+[Pitch Video of Magiry.ai](https://drive.google.com/file/d/1HvlrG6n1kzLjcgmZpd3XvJgihYRzhK0U/view?usp=share_link)
 
 [Pitch Deck of Magiry.ai](https://docsend.com/view/24ygnn5adfy9gxkh)
     
